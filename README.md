@@ -48,5 +48,5 @@ Each Components repository can be found below:
 * https://github.com/synergy-scu/synergy-monitor
 * https://github.com/synergy-scu/synergy-db
 
-[ac-monitor] https://store.ncd.io/product/8-channel-on-board-95-accuracy-20-amp-ac-current-monitor-with-iot-interface/
+[ac-monitor]: https://store.ncd.io/product/8-channel-on-board-95-accuracy-20-amp-ac-current-monitor-with-iot-interface/
 
