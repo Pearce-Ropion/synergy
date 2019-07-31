@@ -1,3 +1,17 @@
 node_modules/
+build_artifacts/
+build/
+env/
+__pycache__
+uuid.txt
+*.egg
+*.egg-info/
+*.log
+*.envrc
 *.code-workspace
+.cache/
+.pytest_cache
+.vscode
 .DS_Store
+cumulative-history.json
+generateData.js
