@@ -1,0 +1,18 @@
+[submodule "synergy-ui"]
+	path = synergy-ui
+	url = https://github.com/synergy-scu/synergy-ui.git
+[submodule "synergy-api"]
+	path = synergy-api
+	url = https://github.com/synergy-scu/synergy-api.git
+[submodule "synergy-manager"]
+	path = synergy-manager
+	url = https://github.com/synergy-scu/synergy-manager.git
+[submodule "synergy-monitor"]
+	path = synergy-monitor
+	url = https://github.com/synergy-scu/synergy-monitor.git
+[submodule "synergy-db"]
+	path = synergy-db
+	url = https://github.com/synergy-scu/synergy-db.git
+[submodule "synergy-framework-pyramid"]
+	path = synergy-framework-pyramid
+	url = https://github.com/synergy-scu/synergy-framework-pyramid.git
